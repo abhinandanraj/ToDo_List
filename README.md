@@ -5,4 +5,4 @@ Used Language: HTML , JavaScript
 <br />
 Version: 1.0
 <br />
-View Demo: <a href =https://abhinandanraj.github.io/ToDo_List/>Click here</a>
+View Demo: <a href =https://abhinandanraj.github.io/ToDo_List/ target="_blank">Click here</a>
